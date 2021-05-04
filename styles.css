@@ -1,0 +1,19 @@
+.h {
+    border: blue 10px;
+    border-style: blue inset;
+    padding: 5px;
+    background: blue;
+    color: yellow;
+    text-align: center;
+}
+body {
+    background: orange url(bg.jpg);
+    font-family: 'Montserrat', sans-serif;
+}
+.menu {
+    border: orange 10px;
+    border-style: black outset;
+    padding: 5px;
+    background: darkorange;
+    margin-top: 25px;
+}
