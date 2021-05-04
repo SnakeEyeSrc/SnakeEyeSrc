@@ -1,13 +1,14 @@
 .h {
-    border: blue 10px;
+    border: darkblue 10px;
     border-style: blue inset;
     padding: 5px;
-    background: blue;
+    background: blue url(bg2.gif);
     color: yellow;
     text-align: center;
+    
 }
 body {
-    background: orange url(bg.jpg);
+    background: black url(bg.jpg);
     font-family: 'Montserrat', sans-serif;
 }
 .menu {
@@ -16,4 +17,7 @@ body {
     padding: 5px;
     background: darkorange;
     margin-top: 25px;
+}
+.title {
+    text-align: center;
 }
